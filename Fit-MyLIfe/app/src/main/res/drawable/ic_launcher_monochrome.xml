@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Infinity Symbol (Left Loop) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M36.4,36.4m-17.6,0a17.6,17.6 0,1 1,35.2 0a17.6,17.6 0,1 1,-35.2 0" />
+    <!-- Infinity Symbol (Right Loop) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M71.6,36.4m-17.6,0a17.6,17.6 0,1 1,35.2 0a17.6,17.6 0,1 1,-35.2 0" />
+    <!-- Bar -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M23.2,52.9h61.6v2.2h-61.6z" />
+    <!-- Left Weight -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M14.4,40.8h8.8v26.4h-8.8z" />
+    <!-- Right Weight -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M84.8,40.8h8.8v26.4h-8.8z" />
+</vector>
