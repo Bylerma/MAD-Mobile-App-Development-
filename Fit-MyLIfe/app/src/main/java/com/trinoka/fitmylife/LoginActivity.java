@@ -1,4 +1,4 @@
-package com.pixel.fitmylife;
+package com.trinoka.fitmylife;
 
 import android.os.Bundle;
 
