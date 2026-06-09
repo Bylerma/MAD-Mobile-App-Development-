@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Fit-MyLIfe</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_account">Already Have An Account. Login</string>
 </resources>
